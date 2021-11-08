@@ -1,0 +1,6 @@
+com.me.learn.boot.log.ILog=com.me.learn.boot.log.Log4J,\
+ com.me.learn.boot.log.LogBack
+
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.me.learn.boot.log.Log4J
+
